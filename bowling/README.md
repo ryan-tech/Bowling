@@ -1,4 +1,4 @@
-PA11 - Pinball Game
+PA11 - OpenGL Bowling
 
 Group:
 Maxwell Johnston
