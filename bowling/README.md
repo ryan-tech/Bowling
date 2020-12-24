@@ -1,11 +1,12 @@
-PA11 - OpenGL Bowling
+OpenGL Bowling
 
 Group:
 Maxwell Johnston
 Ryan Kim
 Ryan Poston
 
-Overview: We created the board, pins and ball and marked the ball and pins as dynamic, we have a spotlight following the ball and camera movement in place, as well as a way to make the ball move down the lane. We still need to implement a game loop and scoring mechanism that works similarly to a normal game of bowling.
+Overview: This is a bowling simulation created using OpenGL and Bullet Physics libraries written in C++. 
+
 
 
 User Manual:
